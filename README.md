@@ -19,7 +19,7 @@ const keisya = {
   role: "Front-End Developer",
   currentProject: "HaluAI - AI Website Platform",
   learning: ["Svelte", "Elysia.js", "AI Integration"],
-  goal: "Building the most popular AI website in Indonesia 🇮🇩",
+  goal: "Building the most popular roleplayer AI",
   lookingFor: "Investors & Collaborators",
 };
 ```
