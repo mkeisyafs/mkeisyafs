@@ -83,10 +83,6 @@ const keisya: Developer = {
 
 <div align="center">
   
-<a href="https://github.com/mkeisyafs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mkeisyafs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkeisyafs&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-</a>
 
 <br/><br/>
 
