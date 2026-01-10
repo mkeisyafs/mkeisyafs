@@ -38,7 +38,7 @@ const keisya: Developer = {
   learning: ["Svelte", "Elysia.js", "AI Integration"],
   interests: ["Web Development", "UI/UX", "AI/ML"],
 
-  openTo: ["Collaboration", "Investors", "New Opportunities"],
+  openTo: ["Collaboration", "New Opportunities"],
 };
 ```
 
