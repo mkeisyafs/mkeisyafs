@@ -105,7 +105,7 @@ const keisya: Developer = {
 [![Email](https://img.shields.io/badge/Email-mkeisyaf%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkeisyaf@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mkeisyaf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mkeisyaf)
 [![Instagram](https://img.shields.io/badge/Instagram-mkeisyaf-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mkeisyaf)
-[![X](https://img.shields.io/badge/X-mekisyaf-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mekisyaf)
+[![X](https://img.shields.io/badge/X-mekisyaf-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mkeisyaf)
 
 </div>
 
