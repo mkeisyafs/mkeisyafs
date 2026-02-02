@@ -114,7 +114,6 @@ const keisya: Developer = {
 <p>If you find my projects useful or interesting, consider supporting my journey!</p>
 
 [![Ko-Fi](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mkeisyaf)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/mkeisyafs)
 
 </div>
 
