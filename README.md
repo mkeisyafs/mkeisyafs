@@ -4,7 +4,7 @@
 
 **Front-End Developer** · Indonesia
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Building+HaluAI+%E2%80%94+AI+Roleplay+Platform;Crafting+Modern+Web+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Building+SkizoAI+%E2%80%94+AI+Roleplay+Platform;Crafting+Modern+Web+Experiences)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ### About Me
 
-I'm a front-end developer focused on building clean, performant web applications. Currently working on **HaluAI**, an AI-powered roleplay platform. I'm exploring **Svelte**, **Elysia.js**, and **AI integration** to push what's possible on the web.
+I'm a front-end developer focused on building clean, performant web applications. Currently working on **[SkizoAI](https://skizoai.com)**, an AI-powered roleplay platform. I'm exploring **Svelte**, **Elysia.js**, and **AI integration** to push what's possible on the web.
 
 Open to collaboration and new opportunities — feel free to reach out.
 
