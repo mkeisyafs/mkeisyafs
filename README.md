@@ -38,16 +38,6 @@ Open to collaboration and new opportunities — feel free to reach out.
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mkeisyafs&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-
-</div>
-
----
-
 ### Connect
 
 <div align="center">
